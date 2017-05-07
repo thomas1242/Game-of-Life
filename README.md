@@ -18,6 +18,7 @@ java -cp Game-of-Life GameOfLife
 
 ## Output
 
+##### Gosper glider gun<br>
 ![demo](/images/demo/GosperGlider.gif)
 
 ![demo](/images/demo/drawLine.gif)
