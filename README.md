@@ -16,7 +16,7 @@ javac Game-of-Life/GameOfLife.java
 java -cp Game-of-Life GameOfLife
 ```
 
-## Output
+## Demo
 
 ##### Gosper glider gun<br>
 ![demo](/images/demo/GosperGlider.gif)
